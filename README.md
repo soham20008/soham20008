@@ -6,7 +6,7 @@
 
 ### 🛠️ Skills & Tools:
 - 🐍 Python  
-- 🌐 Web Development (HTML, CSS, JavaScript)  
+- 🌐 Web Development (HTML, CSS, JavaScript, React)  
 - ☕ Java  
 - 🛠️ Git & 📦 GitHub  
 
@@ -16,3 +16,4 @@ Let's connect and build something amazing! 🚀
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sohombhaduri?theme=dark&font=Karma&ext=heatmap)
+
