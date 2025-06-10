@@ -1,5 +1,10 @@
 # 👋 Hello World! I'm SOHOM BHADURI
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-soham20008-black?logo=github&style=for-the-badge)](https://github.com/soham20008) [![LeetCode](https://img.shields.io/badge/LeetCode-55504f?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/sohombhaduri/)
+
+
+
 🎓 I'm currently pursuing my B.Tech in **Computer Science Engineering** (2023–2027).  
 💻 Passionate about coding and constantly learning new technologies.  
 🌱 I enjoy working on real-world projects and enhancing my development skills.
