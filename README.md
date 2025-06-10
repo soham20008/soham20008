@@ -24,6 +24,12 @@
 
 Let's connect and build something amazing! 🚀
 
+## 💡 Projects 
+<a href="https://soham20008.github.io/landing-page/" style="margin: 2px; padding: 10px;">
+  Restaurant landing page
+</a>
+
+
 
 ## 🧠 LeetCode Stats
 
