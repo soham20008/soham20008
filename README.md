@@ -24,8 +24,8 @@
 
 Let's connect and build something amazing! 🚀
 
-## 💡 Projects 
-<a href="https://soham20008.github.io/landing-page/" style="margin: 2px; padding: 10px;">
+## 💡 Projects
+<a href="https://soham20008.github.io/landing-page/" style="margin: 2px; padding: 10px;" title="A simple landing page for a restaurant, created for learning purpose. Build as a beginner.">
   Restaurant landing page
 </a>
 
