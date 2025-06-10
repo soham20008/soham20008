@@ -9,9 +9,7 @@
 <a href="https://www.youtube.com/@MAthsAni-p4n">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="LinkedIn" width="110"/>
 </a>
-
-
-
+<br></br>
 🎓 I'm currently pursuing my B.Tech in **Computer Science Engineering** (2023–2027).  
 💻 Passionate about coding and constantly learning new technologies.  
 🌱 I enjoy working on real-world projects and enhancing my development skills.
@@ -23,17 +21,18 @@
 - 🛠️ Git & 📦 GitHub  
 
 Let's connect and build something amazing! 🚀
+<br></br>
 
 ## 💡 Projects
 <a href="https://soham20008.github.io/landing-page/" style="margin: 2px; padding: 10px;" title="A simple landing page for a restaurant, created for learning purpose. Build as a beginner.">
   Restaurant landing page
 </a>
-
-
+<br></br>
 
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sohombhaduri?theme=dark&font=Karma&ext=heatmap)
+<br></br>
 
 ## 🐙 My GitHub Contribution's stats
 Check out my work and projects on GitHub!  
