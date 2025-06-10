@@ -6,6 +6,9 @@
  <a href="https://www.linkedin.com/in/sohom-bhaduri-a6b6682b3/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="110"/>
 </a>
+<a href="https://www.youtube.com/@MAthsAni-p4n">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="LinkedIn" width="110"/>
+</a>
 
 
 
