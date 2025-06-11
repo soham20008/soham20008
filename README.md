@@ -1,6 +1,5 @@
 # 👋 Hello World! I'm [SOHOM BHADURI](https://soham20008.github.io/portfolio/)
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-soham20008-black?logo=github&style=for-the-badge)](https://github.com/soham20008)
  [![LeetCode](https://img.shields.io/badge/LeetCode-55504f?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/sohombhaduri/)
  <a href="https://www.linkedin.com/in/sohom-bhaduri-a6b6682b3/">
@@ -43,6 +42,8 @@ Check out my work and projects on GitHub!
 
 ### 🗓️ GitHub Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soham20008&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soham20008&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/soham20008)
 
 
 
