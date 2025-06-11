@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm SOHOM BHADURI
+# 👋 Hello World! I'm [SOHOM BHADURI](https://soham20008.github.io/portfolio/)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-soham20008-black?logo=github&style=for-the-badge)](https://github.com/soham20008)
