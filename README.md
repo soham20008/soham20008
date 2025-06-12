@@ -33,25 +33,21 @@ Let's connect and build something amazing! 🚀
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sohombhaduri?theme=dark&font=Karma&ext=heatmap)
 <br></br>
 
-<!-- ## 🐙 My GitHub Contribution's stats
+## 🐙 GitHub Contribution's stats
 Check out my work and projects on GitHub!  
 [![GitHub](https://img.shields.io/badge/GitHub-soham20008-black?logo=github&style=for-the-badge)](https://github.com/soham20008)
 
-### 📊 GitHub Stats
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham20008&show_icons=true&theme=radical)
+<!-- ### 📊 GitHub Stats
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham20008&show_icons=true&theme=react&rank_icon=github&border_radius=50)
 
 ### 🗓️ GitHub Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soham20008&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soham20008&theme=radical&border=true&border_radius=50)](https://git.io/streak-stats) -->
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soham20008&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/soham20008) -->
-
-<h2 align="center">🐙 GitHub Contribution's stats</h2>
-<br>
 <div align=center>
-  <img width=390  src="https://streak-stats.demolab.com/?user=soham20008&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=soham20008&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=soham20008&show_icons=true&theme=react&rank_icon=github&border_radius=50" alt="streak stats"/> 
+  <img width=415 src="https://github-readme-streak-stats.herokuapp.com?user=soham20008&theme=radical&border=true&border_radius=50" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham20008&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br></br>
 
-
-
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soham20008&theme=vue&bg_color=00000000&hborder=true)](https://github.com/soham20008)
