@@ -8,6 +8,9 @@
 <a href="https://www.youtube.com/@MAthsAni-p4n">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="LinkedIn" width="110"/>
 </a>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="figma.png" alt="Figma" height=35 width = 62 style="border-radius: 10px"/>
+</a>
 <br></br>
 🎓 I'm currently pursuing my B.Tech in **Computer Science Engineering** (2023–2027).  
 💻 Passionate about coding and constantly learning new technologies.  
@@ -18,6 +21,7 @@
 - 🌐 Web Development (HTML, CSS, JavaScript, React)  
 - ☕ Java  
 - 🛠️ Git & 📦 GitHub  
+- 
 
 Let's connect and build something amazing! 🚀
 <br></br>
