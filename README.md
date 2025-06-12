@@ -1,9 +1,9 @@
 # 👋 Hello World! I'm [SOHOM BHADURI](https://soham20008.github.io/portfolio/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-soham20008-black?logo=github&style=for-the-badge)](https://github.com/soham20008)
- [![LeetCode](https://img.shields.io/badge/LeetCode-55504f?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/sohombhaduri/)
- <a href="https://www.linkedin.com/in/sohom-bhaduri-a6b6682b3/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="110"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-55504f?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/sohombhaduri/)
+<a href="https://www.linkedin.com/in/sohom-bhaduri-a6b6682b3/">
+ <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="110"/>
 </a>
 <a href="https://www.youtube.com/@MAthsAni-p4n">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="LinkedIn" width="110"/>
