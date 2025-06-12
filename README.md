@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="LinkedIn" width="110"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
-  <img src="figma.png" alt="Figma" height=35 width = 62 style="border-radius: 10px"/>
+  <img src="figma_1.png" alt="Figma" height=34 width = 98 style="border-radius: 10px"/>
 </a>
 <br></br>
 🎓 I'm currently pursuing my B.Tech in **Computer Science Engineering** (2023–2027).  
